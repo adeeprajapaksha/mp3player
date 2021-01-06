@@ -1,0 +1,27 @@
+Mp3Player.pro
+Mp3Player.rc
+README.md
+icons/Audio Wave-24.png
+icons/Audio Wave-32.png
+icons/Delete-16.png
+icons/Fast Backward-32.png
+icons/Fast Forward-32.png
+icons/Icon2.ico
+icons/Minus-16.png
+icons/Mute-32.png
+icons/Pause-32.png
+icons/Play-16.png
+icons/Play-32.png
+icons/Plus Math-16.png
+icons/Repeat-32.png
+icons/Shuffle-32.png
+icons/Stop Filled-32.png
+icons/Stop-24.png
+icons/Stop-32.png
+main.cpp
+mainwindow.cpp
+mainwindow.h
+mainwindow.ui
+music.cflags
+music.cxxflags
+resources.qrc
